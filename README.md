@@ -1,4 +1,4 @@
-# Cargos área de dados.
+# Imersão na área de dados.
 
 O objetivo principal desta etapa é apresentar o fluxo de trabalho de um Cientista de Dados no carregamento, exploração inicial, limpeza, manipulação e visualização de dados reais.   
 
