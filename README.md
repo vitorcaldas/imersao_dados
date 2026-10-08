@@ -80,4 +80,4 @@ Através do uso da biblioteca Pandas no ambiente Google Colab, realizamos:
 
  - Regime de Trabalho: Grande parte das oportunidades registradas opera no formato presencial, seguida pelo modelo remoto.   
 
-Cargo Mais Frequente: O cargo com maior ocorrência na amostragem é o de Data Scientist.   
+ - Cargo Mais Frequente: O cargo com maior ocorrência na amostragem é o de Data Scientist.   
