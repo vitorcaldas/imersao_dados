@@ -66,7 +66,7 @@ Através do uso da biblioteca Pandas no ambiente Google Colab, realizamos:
 
  - Desenvolvimento da aplicação com Streamlit para exibição interativa das análises e filtros de dados.
 
-4 - Construindo um Dashboard com Streamlit
+4 — Construindo um Dashboard com Streamlit
 
 🚀 Como Executar o Projeto
 
